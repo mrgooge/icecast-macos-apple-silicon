@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<report version="0.0.1" xmlns="http://icecast.org/specs/reportxml-0.0.1">
+    <definition defines="0aa76ea1-bf42-49d1-887e-ca95fb307dc4">
+        <incident/>
+    </definition>
+    <definition defines="b20a2bf2-1278-448c-81f3-58183d837a86">
+        <incident/>
+    </definition>
+    <definition defines="25387198-0643-4577-9139-7c4f24f59d4a">
+        <incident/>
+    </definition>
+    <definition defines="2f51a026-02e4-4fe4-bf9d-cc16557b3b65">
+        <incident/>
+    </definition>
+    <definition defines="18c32b43-0d8e-469d-b434-10133cdd06ad">
+        <incident/>
+    </definition>
+    <definition defines="a3a51986-3bba-42b9-ad5c-d9ecc9967320">
+        <state/>
+    </definition>
+    <definition defines="fdbacc56-1150-4c79-b53a-43cc79046f40">
+        <state/>
+    </definition>
+    <definition defines="dc91ce96-f473-41d1-bfff-379666306911">
+        <state/>
+    </definition>
+    <definition defines="40d134e3-fbbe-46b1-a409-9b2ca8954528">
+        <state/>
+    </definition>
+</report>
